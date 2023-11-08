@@ -1,0 +1,106 @@
+Provinsi,web-scraper-start-url,tahun,"Jumlah Perguruan Tinggi di Bawah Kementerian Riset, Teknologi dan Pendidikan Tinggi","Jumlah Mahasiswa di Bawah Kementerian Riset, Teknologi dan Pendidikan Tinggi"
+Aceh,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,96,145116
+Sumatera Utara,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,214,382458
+Sumatera Barat,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,92,182439
+Riau,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,83,143029
+Jambi,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,41,71131
+Sumatera Selatan,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,101,140733
+Bengkulu,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,17,49018
+Lampung,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,74,124377
+Kepulauan Bangka Belitung,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,16,14402
+Kepulauan Riau,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,34,48507
+DKI Jakarta,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,276,701366
+Jawa Barat,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,388,859997
+Jawa Tengah,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,250,624991
+DI Yogyakarta,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,109,401863
+Jawa Timur,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,341,889761
+Banten,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,113,1382989
+Bali,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,60,147744
+Nusa Tenggara Barat,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,55,112812
+Nusa Tenggara Timur,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,65,126485
+Kalimantan Barat,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,50,91094
+Kalimantan Tengah,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,24,37240
+Kalimantan Selatan,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,49,93400
+Kalimantan Timur,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,54,96091
+Kalimantan Utara,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,10,13754
+Sulawesi Utara,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,51,105128
+Sulawesi Tengah,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,37,90831
+Sulawesi Selatan,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,192,340173
+Sulawesi Tenggara,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,53,108803
+Gorontalo,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,12,50631
+Sulawesi Barat,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,20,30654
+Maluku,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,33,66193
+Maluku Utara,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,19,40674
+Papua Barat,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,22,39962
+Papua,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,56,121435
+Indonesia,https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1,2022,3107,7875281
+Aceh,,2021,100,146126
+Sumatera Utara,,2021,221,372423
+Sumatera Barat,,2021,98,177767
+Riau,,2021,82,137435
+Jambi,,2021,40,68178
+Sumatera Selatan,,2021,104,141621
+Bengkulu,,2021,17,48310
+Lampung,,2021,73,113491
+Kepulauan Bangka Belitung,,2021,17,13083
+Kepulauan Riau,,2021,35,45674
+DKI Jakarta,,2021,279,698268
+Jawa Barat,,2021,392,826727
+Jawa Tengah,,2021,256,601618
+DI Yogyakarta,,2021,109,389699
+Jawa Timur,,2021,338,863449
+Banten,,2021,115,1359845
+Bali,,2021,60,144352
+Nusa Tenggara Barat,,2021,53,102717
+Nusa Tenggara Timur,,2021,60,123831
+Kalimantan Barat,,2021,49,93729
+Kalimantan Tengah,,2021,25,37393
+Kalimantan Selatan,,2021,48,89980
+Kalimantan Timur,,2021,53,96613
+Kalimantan Utara,,2021,9,12775
+Sulawesi Utara,,2021,49,89925
+Sulawesi Tengah,,2021,38,87978
+Sulawesi Selatan,,2021,192,337759
+Sulawesi Tenggara,,2021,46,106911
+Gorontalo,,2021,12,47719
+Sulawesi Barat,,2021,20,27017
+Maluku,,2021,34,67497
+Maluku Utara,,2021,18,41429
+Papua Barat,,2021,22,38307
+Papua,,2021,51,115870
+Indonesia,,2021,3115,7665516
+Aceh,,2020,101,150882
+Sumatera Utara,,2020,222,370214
+Sumatera Barat,,2020,101,180049
+Riau,,2020,79,136029
+Jambi,,2020,41,70557
+Sumatera Selatan,,2020,109,134234
+Bengkulu,,2020,19,46931
+Lampung,,2020,80,107223
+Kepulauan Bangka Belitung,,2020,19,11834
+Kepulauan Riau,,2020,34,39811
+DKI Jakarta,,2020,288,707707
+Jawa Barat,,2020,389,751785
+Jawa Tengah,,2020,268,572837
+DI Yogyakarta,,2020,107,369831
+Jawa Timur,,2020,345,818111
+Banten,,2020,120,1308214
+Bali,,2020,60,161407
+Nusa Tenggara Barat,,2020,54,94464
+Nusa Tenggara Timur,,2020,59,112934
+Kalimantan Barat,,2020,47,94367
+Kalimantan Tengah,,2020,26,31635
+Kalimantan Selatan,,2020,50,94760
+Kalimantan Timur,,2020,54,92857
+Kalimantan Utara,,2020,8,12115
+Sulawesi Utara,,2020,54,86595
+Sulawesi Tengah,,2020,34,80902
+Sulawesi Selatan,,2020,207,329548
+Sulawesi Tenggara,,2020,41,94705
+Gorontalo,,2020,12,50089
+Sulawesi Barat,,2020,21,18449
+Maluku,,2020,30,43375
+Maluku Utara,,2020,18,41128
+Papua Barat,,2020,20,45662
+Papua,,2020,49,107768
+Indonesia,,2020,3166,7369009
